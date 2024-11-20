@@ -5,3 +5,5 @@ marron
 turquesa
 dorado
 plata
+rosa
+verde
