@@ -7,3 +7,5 @@ dorado
 plata
 rosa
 verde
+amarillo
+negro
