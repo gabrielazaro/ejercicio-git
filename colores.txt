@@ -3,3 +3,5 @@ lila
 naranja
 marron
 turquesa
+dorado
+plata
